@@ -1,0 +1,8 @@
+{
+  "input_rows": 9,
+  "exact_duplicates_removed": 1,
+  "rejected_rows": 4,
+  "valid_rows": 4,
+  "database_rows": 4,
+  "repeat_load_idempotent": true
+}

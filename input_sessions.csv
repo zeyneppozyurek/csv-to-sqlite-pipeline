@@ -1,0 +1,10 @@
+session_id,timestamp,scenario,duration_seconds,latency_ms
+s01,2026-01-01T10:00:00Z,training,120,40.0
+s02,2026-01-01T10:05:00Z,exploration,250,60.0
+s03,2026-01-01T10:10:00Z,training,180,35.0
+s04,bad-date,training,150,20.0
+s05,2026-01-01T10:20:00Z,exploration,-10,30.0
+s06,2026-01-01T10:25:00Z,training,oops,25.0
+s07,2026-01-01T10:30:00Z,exploration,90,
+s01,2026-01-01T10:00:00Z,training,120,40.0
+s08,2026-01-01T10:35:00Z,exploration,110,50.0

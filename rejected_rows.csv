@@ -1,0 +1,5 @@
+session_id,timestamp,scenario,duration_seconds,latency_ms,rejection_reason
+s04,,training,150.0,20.0,invalid_timestamp
+s05,2026-01-01 10:20:00+00:00,exploration,-10.0,30.0,invalid_duration
+s06,2026-01-01 10:25:00+00:00,training,,25.0,invalid_duration
+s07,2026-01-01 10:30:00+00:00,exploration,90.0,,invalid_latency
